@@ -5,6 +5,9 @@ const About = () => {
   return (
     <Layout>
       <div>About</div>
+      <div>
+        Learn Web Development fundamentals by building projects.
+      </div>
     </Layout>
   );
 };
